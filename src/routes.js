@@ -4,6 +4,6 @@ const routes = Router();
 
 const AuthorizationController = require('./controllers/AuthorizationController');
 
-routes.post('/transaction/authorization', AuthorizationController.store);
+routes.post('/transactions/authorization', AuthorizationController.store);
 
 module.exports = routes;
