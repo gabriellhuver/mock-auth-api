@@ -21,6 +21,11 @@ Autorizar transações com o valor abaixo de 100.
 
 [Api Url on Heroku](https://peaceful-badlands-17242.herokuapp.com/transactions/authorization)
 
+
+## Api Routes
+
+http://localhost:3000/transactions/authorization
+
 Body data example
 
 ```json
